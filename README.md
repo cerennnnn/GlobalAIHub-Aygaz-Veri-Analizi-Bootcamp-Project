@@ -3,9 +3,10 @@
 TMDB Movie Veri İncelemesi
 
 ![Unknown](https://github.com/user-attachments/assets/d9770f37-1a06-4614-b578-edae6e71318e)
-Bu proje TMDB Movie verilerinin detaylı bir şekilde analizini içerir. 
+
 
 ## **Proje Özeti**
+- Bu proje TMDB Movie verilerinin detaylı bir şekilde analizini içerir. 
 - Toplamda 4803 satır 20 sütun bulunmaktadır.
 - Analiz edilen veri setinde halihazırda eksik değerler bulunmuştur fakat istenildiği gibi NaN değerler yaratılmış ve bu hali incelenmiştir.
 - İncelenen veriler film isimleri, film kategorileri, bütçe, yayınlandıkları tarih, oylamalar gibi bilgileri içermektedir.
