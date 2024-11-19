@@ -42,4 +42,4 @@ TMDB Movie Veri İncelemesi
 - Çoğu filmin bütçesi 15 milyon (medyan) civarında, 13 civarında popülerlik skoruna sahip ve 6 civarında oy almış.
 
 
-[Kagge Linki]([https://www.google.com](https://www.kaggle.com/code/cerengne/tmdb-veri-analizi-globalai-aygaz-bootcamp-project/edit/run/208188468))
+[Kagge Linki]([https://www.google.com](https://www.kaggle.com/code/cerengne/tmdb-veri-analizi-globalai-aygaz-bootcamp-project/edit/run/208188468)
